@@ -7,7 +7,8 @@ Foram utilizadas as tecnologias:
   *React JS, React Native, Node.js, MongoDB.
 
 Obs: O código mobile está sendo executado com a ferramenta Expo. 
-#Instalação
+
+# Instalação
 Frontend:
 
 yarn/npm install: Comando para instalar todas as dependências.

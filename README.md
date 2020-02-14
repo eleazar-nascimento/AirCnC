@@ -9,15 +9,19 @@ Foram utilizadas as tecnologias:
 Obs: O código mobile está sendo executado com a ferramenta Expo. 
 
 # Instalação
-Frontend:
+# Frontend:
 
 yarn/npm install: Comando para instalar todas as dependências.
+
 yarn start: Comando para iniciar o servidor, porta padrão é a 3333.
-Backend:
+
+# Backend:
 
 yarn/npm install: Comando para instalar todas as dependências.
+
 yarn dev: Comando para iniciar o servidor, porta padrão é a 3333.
-Mobile:
+
+# Mobile:
 
 yarn: Comando para instalar todas as dependências.
 yarn start: Comando para iniciar o servidor, porta padrão é a 3333.
